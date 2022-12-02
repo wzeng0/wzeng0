@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="(https://github.com/wzeng0/github-readme-stats)">
+  My overall Language use:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzeng0&layout=compact" />
 </a>
 <a>
+  My Github Stats
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=zeng0&show_icons=true&theme=transparent" />
 </a>
