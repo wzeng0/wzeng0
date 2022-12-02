@@ -3,8 +3,6 @@
 <!--
 **wzeng0/wzeng0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzeng0)](https://github.com/anuraghazra/github-readme-stats)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzeng0)](https://github.com/wzeng0/github-readme-stats)
