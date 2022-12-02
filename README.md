@@ -17,7 +17,6 @@ Here are some ideas to get you started:
   My overall Language use:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzeng0&layout=compact" />
 </a>
-<a href="">
-  My Github Stats
+<a>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=zeng0&show_icons=true&theme=transparent" />
 </a>
