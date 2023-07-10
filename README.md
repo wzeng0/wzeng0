@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2438F7&center=true&width=600&height=150&lines=William+Zeng;Junior+at+University+of+Chicago;Computer+Science+Major;Media+Arts+and+Design+Minor;Full-Stack+Developer%2FEngineer;Active+Learner;Love+to+learn+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2438F7&center=true&width=600&height=150&lines=William+Zeng;Senior+at+University+of+Chicago;Computer+Science+Major;Media+Arts+and+Design+Minor;Full-Stack+Developer%2FEngineer;Active+Learner;Love+to+learn+new+things"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
