@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <a href="(https://github.com/wzeng0/github-readme-stats)">
-  <img src="https://github-readme-stats.vercel.app/api?username=wzeng0&hide=stars&show_icons=true&theme=transparent" width="450"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=wzeng0&hide=stars&show_icons=true&theme=transparent" width="450"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzeng0&layout=compact" width="375" height="155" alt="0xabdulkhalid"/>
 </a>
 
